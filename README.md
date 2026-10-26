@@ -33,6 +33,8 @@ I care about the full path: a clean specification, synthesizable RTL, a testbenc
 
 <div align="center">
 <img src="./assets/vlsi-flow.svg" width="100%" alt="VLSI design flow: specification → RTL → verification → synthesis → STA → place and route → GDSII" />
+<br/>
+<sub>Specification → RTL → Verification → Synthesis → STA → Place &amp; Route → GDSII</sub>
 </div>
 
 ## Toolbox
