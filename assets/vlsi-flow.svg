@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="VLSI design flow: specification, RTL design, verification, synthesis, static timing analysis, place and route, GDSII">
+  <rect width="1200" height="180" rx="12" fill="#0b1220"/>
+
+  <text x="30" y="34" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#38bdf8" letter-spacing="3">VLSI DESIGN FLOW</text>
+  <text x="1170" y="34" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#475569" letter-spacing="2">SPEC → SILICON</text>
+
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <g>
+      <rect x="30" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="42" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">01</text>
+      <text x="100" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">SPEC</text>
+      <text x="100" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Requirements</text>
+    </g>
+    <g>
+      <rect x="197" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="209" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">02</text>
+      <text x="267" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">RTL</text>
+      <text x="267" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Verilog / SV</text>
+    </g>
+    <g>
+      <rect x="364" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="376" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">03</text>
+      <text x="434" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">VERIFY</text>
+      <text x="434" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Testbenches</text>
+    </g>
+    <g>
+      <rect x="531" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="543" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">04</text>
+      <text x="601" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">SYNTHESIS</text>
+      <text x="601" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Netlist</text>
+    </g>
+    <g>
+      <rect x="698" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="710" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">05</text>
+      <text x="768" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">STA</text>
+      <text x="768" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Timing closure</text>
+    </g>
+    <g>
+      <rect x="865" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <text x="877" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">06</text>
+      <text x="935" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#f8fafc">P&amp;R</text>
+      <text x="935" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Layout</text>
+    </g>
+    <g>
+      <rect x="1032" y="64" width="140" height="72" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+      <text x="1044" y="82" font-size="9" fill="#38bdf8" letter-spacing="1">07</text>
+      <text x="1102" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#38bdf8">GDSII</text>
+      <text x="1102" y="122" text-anchor="middle" font-size="9" fill="#94a3b8">Tape-out</text>
+    </g>
+  </g>
+
+  <g stroke="#38bdf8" stroke-width="1.5" opacity="0.8">
+    <line x1="174" y1="100" x2="188" y2="100"/>
+    <line x1="341" y1="100" x2="355" y2="100"/>
+    <line x1="508" y1="100" x2="522" y2="100"/>
+    <line x1="675" y1="100" x2="689" y2="100"/>
+    <line x1="842" y1="100" x2="856" y2="100"/>
+    <line x1="1009" y1="100" x2="1023" y2="100"/>
+  </g>
+  <g fill="#38bdf8" opacity="0.8">
+    <polygon points="188,96 193,100 188,104"/>
+    <polygon points="355,96 360,100 355,104"/>
+    <polygon points="522,96 527,100 522,104"/>
+    <polygon points="689,96 694,100 689,104"/>
+    <polygon points="856,96 861,100 856,104"/>
+    <polygon points="1023,96 1028,100 1023,104"/>
+  </g>
+</svg>

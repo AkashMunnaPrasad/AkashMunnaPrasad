@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f1b33,100:1e3a8a&height=220&section=header&text=Akash%20Munna%20Prasad&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Electronics%20%26%20Communication%20Engineering&descSize=16&descAlignY=58" width="100%" alt="Akash Munna Prasad" />
+<img src="./assets/banner.svg" width="100%" alt="Akash Munna Prasad — Electronics & Communication Engineering, VLSI, Embedded Systems, IoT" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=VLSI+%26+Digital+Design;Embedded+Systems+%7C+IoT;RTL+%E2%86%92+Silicon+%E2%86%92+Real-World+Sensing" alt="VLSI, Embedded Systems, IoT" />
 
@@ -30,15 +30,9 @@ I care about the full path: a clean specification, synthesizable RTL, a testbenc
 
 ## VLSI Design Flow
 
-```mermaid
-flowchart LR
-    A[Specification] --> B["RTL Design<br/>Verilog / SystemVerilog"]
-    B --> C["Verification<br/>Testbenches & Simulation"]
-    C --> D[Logic Synthesis]
-    D --> E[Static Timing Analysis]
-    E --> F[Place & Route]
-    F --> G[GDSII]
-```
+<div align="center">
+<img src="./assets/vlsi-flow.svg" width="100%" alt="VLSI design flow: specification → RTL → verification → synthesis → STA → place and route → GDSII" />
+</div>
 
 ## Toolbox
 
@@ -87,15 +81,6 @@ My portfolio site, built with TypeScript and deployed on Vercel.
 - **RTL building blocks** — parameterized UART, FIFO, and ALU implementations with self-checking testbenches, simulated and synthesized in Vivado
 - **ESP32 IoT sensor node** — Wi-Fi device publishing sensor telemetry over MQTT to a live dashboard
 - Deepening **static timing analysis** and the synthesis-to-layout flow
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashMunnaPrasad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=AkashMunnaPrasad&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ## Connect
 
