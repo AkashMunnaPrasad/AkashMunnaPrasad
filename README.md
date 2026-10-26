@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Akash Munna Prasad — Electronics & Communication Engineering, VLSI, Embedded Systems, IoT" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=VLSI+%26+Digital+Design;Embedded+Systems+%7C+IoT;RTL+%E2%86%92+Silicon+%E2%86%92+Real-World+Sensing" alt="VLSI, Embedded Systems, IoT" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AkashMunnaPrasad&label=PROFILE+VIEWS&style=for-the-badge&color=1e3a8a" alt="Profile views" />
@@ -19,6 +17,9 @@
 ECE student working where **digital hardware meets the physical world** — writing RTL that has to close timing, and firmware that turns sensor readings into connected systems.
 
 I care about the full path: a clean specification, synthesizable RTL, a testbench that actually proves it, and a device that survives contact with reality.
+
+> [!TIP]
+> **Open to internships and collaborations** in VLSI, embedded systems, and IoT.
 
 ## What I Work On
 
