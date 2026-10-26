@@ -5,7 +5,7 @@
 **Electronics & Communication Engineering Student**
 VLSI · Embedded Systems · IoT
 
-[Portfolio](https://portfolio-omega-ochre-71.vercel.app) · [Projects](#featured-projects) · [Contact](#contact)
+[Portfolio](https://akash-munna-prasad-portfolio.vercel.app/) · [Projects](https://akash-munna-prasad-portfolio.vercel.app/projects) · [Contact](https://akash-munna-prasad-portfolio.vercel.app/contact)
 
 </div>
 
