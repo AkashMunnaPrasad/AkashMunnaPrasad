@@ -39,7 +39,7 @@ I care about the full path: a clean specification, synthesizable RTL, a testbenc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode&theme=dark" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode&theme=dark&perline=6" alt="Languages and tools" />
 
 <br/><br/>
 
